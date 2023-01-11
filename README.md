@@ -1,2 +1,2 @@
-##EXTREME C
-######exercised from the book Extreme C
+## EXTREME C
+###### exercised from the book Extreme C
